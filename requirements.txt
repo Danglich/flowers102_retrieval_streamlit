@@ -2,3 +2,4 @@ scipy>=1.4.1
 opencv-python-headless
 tensorflow
 tensorflow-serving-api
+consts
