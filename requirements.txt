@@ -1,4 +1,4 @@
 scipy>=1.4.1
 opencv-python-headless
 tensorflow
-tensorflow_serving>=2.6.3
+tensorflow-serving-api
